@@ -1,7 +1,7 @@
 
 {
   "name": "lanzou",
-  "description": "Deploy wget to heroku",
+  "description": "Deploy 蓝揍直链解析 to heroku",
   "website": "https://github.com/woleo-z/lanzou",
   "repository": "https://github.com/woleo-z/lanzou",
   "success_url": "/"
